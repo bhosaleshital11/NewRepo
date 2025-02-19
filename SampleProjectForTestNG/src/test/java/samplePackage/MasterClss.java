@@ -9,4 +9,9 @@ public void mastermethod()
 {
 	System.out.println("hello");
 }
+@Test
+public void mastermethod3()
+{
+	System.out.println("hello");
+}
 }
