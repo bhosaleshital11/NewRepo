@@ -13,6 +13,6 @@ public class SampleTest extends BaseClassUtility{
 @Test	
 public void method6()
 {
-	System.out.println("sampletest6");
+	System.out.println("sampletest69");
 }
 }
