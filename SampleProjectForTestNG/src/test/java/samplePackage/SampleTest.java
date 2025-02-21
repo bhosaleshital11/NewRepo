@@ -15,4 +15,10 @@ public void method6()
 {
 	System.out.println("sampletest69");
 }
+@Test	
+public void method7()
+{
+	System.out.println("sampletest69");
+}
+
 }
