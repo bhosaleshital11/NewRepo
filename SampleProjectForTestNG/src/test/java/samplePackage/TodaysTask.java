@@ -10,4 +10,11 @@ public class TodaysTask {
 	{
 		System.out.println("Hello EveryOne");
 	}
+	
+	
+	@Test
+	public void todaysTask1()
+	{
+		System.out.println("Hello EveryOne");
+	}
 }
