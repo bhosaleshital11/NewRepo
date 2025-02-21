@@ -17,5 +17,10 @@ public class Sample1 extends BaseClassUtility
 	{
 		System.out.println("method 2");
 	}
+	@Test
+	public void SampeTest3()
+	{
+		System.out.println("method 2");
+	}
 	
 }
