@@ -12,6 +12,7 @@ public class CreateContactTest {
 		System.out.println(USERNAME);
 		System.out.println(PASSWORD);
 		System.out.println("execute createNewContactTest");
+		System.out.println("now created");
 	}
 	public void createNewContact2() {
 		System.out.println(" Updated Method");
