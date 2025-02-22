@@ -3,7 +3,17 @@
   <groupId>com.ClientName.Vtiger.OrgModule</groupId>
   <artifactId>com.ClientName.Vtiger.OrgModule</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  
+  
+  <properties>
+  <maven.compiler.target>1.8</maven.compiler.target>
+  <maven.complier.source>1.8</maven.complier.source>
+  </properties>
 
+ <properties>
+  <maven.compiler.target>1.8</maven.compiler.target>
+  <maven.compiler.source>1.8</maven.compiler.source>
+  </properties>
 <dependencies>
 		  <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
 <dependency>
@@ -43,7 +53,6 @@
     <version>1.1.1</version>
 </dependency>
 
-<!-- https://mvnrepository.com/artifact/com.aventstack/extentreports -->
-
 </dependencies>
+
 </project>
